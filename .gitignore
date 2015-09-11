@@ -1,0 +1,31 @@
+
+# /bootstrap/compiled.php
+# /vendor
+
+
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+
+# Archivos subidos al servidor.
+public/uploads
+
+# Configuración de los envíos de mail.
+app/config/mail.php
+
+
+/bootstrap/start.php
+
+
+# Configuración
+
+app/config/database.php
+app/config/dev/database.php
+docs/
+
+
+
+
